@@ -1,2 +1,2 @@
-# collegedemo1_dfy
-College Demo1 App for iBeads
+# collegems_dfy
+College Management Portal Demo for iBeads
